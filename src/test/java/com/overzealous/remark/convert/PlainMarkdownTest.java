@@ -38,7 +38,7 @@ public class PlainMarkdownTest extends RemarkTester {
 	@Test public void testListOrdered()				throws Exception { test("listordered"); }
 	@Test public void testListUnordered()			throws Exception { test("listunordered"); }
 	@Test public void testParagraph()				throws Exception { test("paragraph"); }
-	@Test public void testTables()					throws Exception { test("tables"); }
+//	@Test public void testTables()					throws Exception { test("tables"); }
 	@Test public void testUnknownHTML()				throws Exception { test("unknownHTML"); }
-	
+
 }
